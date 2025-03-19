@@ -52,6 +52,10 @@ npm start
 
 Simple RESTful API documentation for the Coding Platform, built with Django REST Framework.
 
+## ER MODEL
+
+![image](https://res.cloudinary.com/ddb8qrjvx/image/upload/v1742411259/Screenshot_2025-03-20_001212_iiuwyf.png)
+
 ## Base URL
 
 - `/api/auth/` (e.g., `http://127.0.0.1:8000/api/auth/`)
